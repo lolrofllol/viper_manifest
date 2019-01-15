@@ -470,5 +470,6 @@
 
   <include name="snippets/cm.xml" />
   <include name="snippets/viper.xml" />
+  <include name="snippets/custom.xml" />
 
 </manifest>
