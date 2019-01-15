@@ -27,12 +27,7 @@ Building
 After the sync is finished, please read the [instructions from the Android site](http://s.android.com/source/building.html) on how to build.
 
     . build/envsetup.sh
-    lunch
-
-You can also build for specific devices (eg. hammerhead) like this:
-
-    . build/envsetup.sh
-    lunch viper_hammerhead-userdebug
+    lunch viper_chagallwifi-userdebug
     mka poison
 
 Remember to `make clobber && make clean` every now and then!
