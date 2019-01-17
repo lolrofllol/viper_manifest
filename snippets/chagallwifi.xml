@@ -8,5 +8,6 @@
   <project path="kernel/samsung/chagallwifi" name="lolrofllol/android_kernel_samsung_exynos5420" remote="github" />
   <project path="vendor/samsung" name="lolrofllol/proprietary_vendor_samsung" remote="github" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="lolrofllol/android_hardware_samsung_slsi-cm_exynos5" remote="github" />
+  <project path="hardware/samsung_slsi-cm/exynos5420" name="lolrofllol/android_hardware_samsung_slsi-cm_exynos5420" remote="github" />
 
 </manifest>
