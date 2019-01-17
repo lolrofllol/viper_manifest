@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- Additions -->
-  <!-- <project path="vendor/samsung" name="lolrofllol/" remote="github" /> -->
   <project path="device/samsung/chagallwifi" name="lolrofllol/android_device_samsung_chagallwifi" remote="github" />
+  <project path="device/samsung/exynos5420-common" name="lolrofllol/android_device_samsung_exynos5420-common" remote="github" />
   <project path="kernel/samsung/exynos5420" name="lolrofllol/android_kernel_samsung_exynos5420" remote="github" />
   <project path="kernel/samsung/chagallwifi" name="lolrofllol/android_kernel_samsung_exynos5420" remote="github" />
   <project path="vendor/samsung" name="lolrofllol/proprietary_vendor_samsung" remote="github" />
